@@ -1,3 +1,4 @@
 # gomoku
 
 ddd
+hhh
